@@ -18,7 +18,7 @@
     "url": "git://github.com/hakimel/reveal.js.git"
   },
   "dependencies": {
-    "express": "~2.5.9",
+    "express": "~4.22.0",
     "mustache": "~0.7.2",
     "socket.io": "~0.9.13",
     "underscore": "~1.5.1"
